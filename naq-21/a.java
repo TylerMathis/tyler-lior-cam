@@ -17,6 +17,7 @@ public class a{
         //go small
         StringBuilder sb = new StringBuilder();
         StringBuilder large = new StringBuilder();
+
         int value = s[0]-'0';
         int flip = 0;
         loop:for(int i = 0;i<10;i++){
